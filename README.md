@@ -40,7 +40,7 @@ Badges: [License: MIT] [Build: pending]
 ### First-time setup
 ```bash
 # 1) Clone and prepare env
-git clone https://github.com/username/archmap.git
+git clone https://github.com/Yasaswini-ch/archmap.git
 cd archmap
 cp .env.example .env
 
